@@ -1,7 +1,7 @@
 # Arc Plank Theme
 
 ## Dark version
-![alt text][dock]
+![Dock](dock.png)
 
 ## Light version
-![alt text][dock-light]
+![Dock Light](dock-light.png)
